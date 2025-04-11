@@ -1,0 +1,98 @@
+.App {
+  display: flex;
+  height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  transition: margin-left 0.3s ease;
+}
+
+.main-content.sidebar-open {
+  margin-left: 250px;
+}
+
+.main-content.sidebar-closed {
+  margin-left: 0;
+}
+
+/* Modern Premium Topbar */
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  color: #ffffff;
+  padding: 14px 24px;
+  height: 24px;
+  position: sticky;
+  top: 0;
+  z-index: 1001;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transition: background 0.3s ease;
+}
+
+.topbar h1 {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  color: #f1f5f9;
+  transition: color 0.3s ease;
+}
+
+/* Toggle Button */
+.sidebar-toggle-btn {
+  margin-right: 20px;
+  font-size: 24px;
+  background: transparent;
+  border: none;
+  color: #e2e8f0;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.sidebar-toggle-btn:hover {
+  color: #60a5fa;
+  background: rgba(255, 255, 255, 0.08);
+  box-shadow: 0 0 10px #60a5fa44;
+  transform: scale(1.1);
+}
+
+/* Optional: Active/Pressed State */
+.sidebar-toggle-btn:active {
+  transform: scale(0.95);
+  box-shadow: none;
+}
+
+/* Responsive Tip */
+@media screen and (max-width: 768px) {
+  .topbar h1 {
+    font-size: 18px;
+  }
+  .sidebar-toggle-btn {
+    font-size: 20px;
+  }
+}
+
+
+/* Content and Search */
+.se {
+  background-color: #f4f4f9;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.content {
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+}
