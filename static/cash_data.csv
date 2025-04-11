@@ -1,0 +1,101 @@
+Transaction_ID,Date,Description,Type,Amount,Balance_After,Bank_Name,Transaction_Mode,Vendor/Client Name
+TXN0001,2024-01-27,Client payment received,Credit,10573.27,110573.27,State Bank of India,Cheque,Global Machinery
+TXN0002,2024-03-14,Payment for raw materials,Debit,7461.28,103111.99,Axis Bank,NEFT,ABC Steels
+TXN0003,2024-02-12,Utility bill,Credit,1693.44,104805.43,HDFC Bank,Cheque,Global Machinery
+TXN0004,2024-03-31,Salary payment,Credit,17754.34,122559.77,State Bank of India,Cheque,ABC Steels
+TXN0005,2024-03-30,Interest received,Credit,7483.1,130042.87,Axis Bank,UPI,Fasteners Inc.
+TXN0006,2024-03-22,Salary payment,Credit,16942.22,146985.09,ICICI Bank,IMPS,AutoParts Ltd.
+TXN0007,2024-03-13,Payment for raw materials,Credit,13124.24,160109.33,Axis Bank,NEFT,Metro Logistics
+TXN0008,2024-03-15,Salary payment,Credit,11269.5,171378.83,Axis Bank,UPI,Global Machinery
+TXN0009,2024-03-15,Utility bill,Credit,17123.45,188502.28,Axis Bank,IMPS,XYZ Traders
+TXN0010,2024-02-25,Utility bill,Credit,10270.55,198772.83,State Bank of India,NEFT,Global Machinery
+TXN0011,2024-03-23,Salary payment,Credit,7054.67,205827.5,State Bank of India,RTGS,Fasteners Inc.
+TXN0012,2024-03-24,Utility bill,Credit,9338.43,215165.93,ICICI Bank,UPI,ABC Steels
+TXN0013,2024-03-27,Salary payment,Debit,2940.54,212225.39,ICICI Bank,NEFT,Fasteners Inc.
+TXN0014,2024-01-31,Payment for raw materials,Debit,19907.01,192318.38,HDFC Bank,Cheque,ABC Steels
+TXN0015,2024-03-27,Client payment received,Credit,5722.39,198040.77,State Bank of India,IMPS,Metro Logistics
+TXN0016,2024-01-10,Client payment received,Credit,13969.33,212010.1,State Bank of India,RTGS,AutoParts Ltd.
+TXN0017,2024-02-01,Salary payment,Credit,19944.03,231954.13,Axis Bank,UPI,AutoParts Ltd.
+TXN0018,2024-01-24,Utility bill,Debit,1414.73,230539.4,ICICI Bank,NEFT,XYZ Traders
+TXN0019,2024-03-10,Loan repayment,Debit,4068.86,226470.54,Axis Bank,UPI,XYZ Traders
+TXN0020,2024-03-07,Salary payment,Credit,11998.86,238469.4,Axis Bank,Cheque,Fasteners Inc.
+TXN0021,2024-03-25,Salary payment,Credit,6506.07,244975.47,Axis Bank,UPI,AutoParts Ltd.
+TXN0022,2024-01-12,Payment for raw materials,Debit,6127.29,238848.18,HDFC Bank,UPI,Global Machinery
+TXN0023,2024-02-07,Loan repayment,Debit,9513.76,229334.42,State Bank of India,RTGS,Fasteners Inc.
+TXN0024,2024-01-10,Payment for raw materials,Credit,13891.08,243225.5,HDFC Bank,IMPS,ABC Steels
+TXN0025,2024-03-09,Client payment received,Credit,8445.21,251670.71,ICICI Bank,UPI,ABC Steels
+TXN0026,2024-03-26,Salary payment,Debit,17161.36,234509.35,State Bank of India,RTGS,Metro Logistics
+TXN0027,2024-01-16,Interest received,Credit,16818.61,251327.96,HDFC Bank,RTGS,ABC Steels
+TXN0028,2024-01-02,Salary payment,Credit,10918.27,262246.23,HDFC Bank,Cheque,AutoParts Ltd.
+TXN0029,2024-02-02,Client payment received,Credit,8905.44,271151.67,HDFC Bank,IMPS,AutoParts Ltd.
+TXN0030,2024-03-27,Client payment received,Debit,8707.44,262444.23,ICICI Bank,RTGS,XYZ Traders
+TXN0031,2024-02-06,Loan repayment,Debit,17742.94,244701.29,ICICI Bank,NEFT,ABC Steels
+TXN0032,2024-03-10,Loan repayment,Debit,16162.71,228538.58,HDFC Bank,Cheque,XYZ Traders
+TXN0033,2024-02-04,Salary payment,Debit,17782.17,210756.41,HDFC Bank,RTGS,Fasteners Inc.
+TXN0034,2024-02-24,Client payment received,Debit,9478.06,201278.35,ICICI Bank,Cheque,XYZ Traders
+TXN0035,2024-03-27,Interest received,Credit,7163.36,208441.71,HDFC Bank,Cheque,ABC Steels
+TXN0036,2024-02-29,Payment for raw materials,Credit,2715.45,211157.16,Axis Bank,IMPS,Metro Logistics
+TXN0037,2024-03-25,Interest received,Debit,15097.91,196059.25,State Bank of India,IMPS,Global Machinery
+TXN0038,2024-02-28,Client payment received,Credit,2012.21,198071.46,Axis Bank,UPI,XYZ Traders
+TXN0039,2024-01-03,Loan repayment,Credit,18192.04,216263.5,HDFC Bank,NEFT,ABC Steels
+TXN0040,2024-01-27,Loan repayment,Debit,930.3,215333.2,Axis Bank,RTGS,Global Machinery
+TXN0041,2024-03-16,Loan repayment,Credit,10588.79,225921.99,ICICI Bank,NEFT,XYZ Traders
+TXN0042,2024-03-04,Loan repayment,Debit,15303.21,210618.78,Axis Bank,Cheque,ABC Steels
+TXN0043,2024-01-06,Loan repayment,Debit,11892.45,198726.33,State Bank of India,RTGS,Global Machinery
+TXN0044,2024-02-12,Loan repayment,Debit,8860.31,189866.02,Axis Bank,IMPS,Global Machinery
+TXN0045,2024-01-09,Client payment received,Debit,12118.47,177747.55,Axis Bank,IMPS,XYZ Traders
+TXN0046,2024-02-23,Utility bill,Debit,16708.22,161039.33,State Bank of India,NEFT,AutoParts Ltd.
+TXN0047,2024-01-31,Utility bill,Credit,13745.99,174785.32,ICICI Bank,IMPS,Global Machinery
+TXN0048,2024-03-10,Salary payment,Debit,8511.63,166273.69,Axis Bank,UPI,AutoParts Ltd.
+TXN0049,2024-03-14,Loan repayment,Credit,4705.45,170979.14,ICICI Bank,RTGS,ABC Steels
+TXN0050,2024-01-16,Client payment received,Debit,4857.13,166122.01,State Bank of India,RTGS,AutoParts Ltd.
+TXN0051,2024-03-20,Loan repayment,Debit,10726.14,155395.87,HDFC Bank,NEFT,AutoParts Ltd.
+TXN0052,2024-01-06,Interest received,Debit,10138.26,145257.61,HDFC Bank,Cheque,AutoParts Ltd.
+TXN0053,2024-02-10,Utility bill,Credit,17650.33,162907.94,State Bank of India,NEFT,ABC Steels
+TXN0054,2024-01-18,Utility bill,Credit,14929.23,177837.17,ICICI Bank,Cheque,ABC Steels
+TXN0055,2024-02-01,Loan repayment,Credit,9696.46,187533.63,State Bank of India,NEFT,Metro Logistics
+TXN0056,2024-01-23,Client payment received,Credit,6832.24,194365.87,State Bank of India,UPI,Fasteners Inc.
+TXN0057,2024-02-07,Payment for raw materials,Credit,7482.42,201848.29,HDFC Bank,NEFT,Metro Logistics
+TXN0058,2024-02-12,Loan repayment,Credit,785.43,202633.72,State Bank of India,RTGS,Metro Logistics
+TXN0059,2024-03-09,Interest received,Credit,4899.59,207533.31,HDFC Bank,UPI,AutoParts Ltd.
+TXN0060,2024-03-01,Loan repayment,Credit,10912.6,218445.91,Axis Bank,Cheque,Metro Logistics
+TXN0061,2024-01-06,Interest received,Debit,16491.58,201954.33,HDFC Bank,NEFT,ABC Steels
+TXN0062,2024-02-24,Payment for raw materials,Debit,4882.56,197071.77,ICICI Bank,RTGS,Fasteners Inc.
+TXN0063,2024-01-15,Loan repayment,Debit,9231.46,187840.31,State Bank of India,IMPS,XYZ Traders
+TXN0064,2024-01-11,Salary payment,Credit,8517.1,196357.41,Axis Bank,Cheque,XYZ Traders
+TXN0065,2024-01-17,Client payment received,Debit,13134.92,183222.49,State Bank of India,UPI,Fasteners Inc.
+TXN0066,2024-02-11,Payment for raw materials,Credit,14229.55,197452.04,Axis Bank,IMPS,AutoParts Ltd.
+TXN0067,2024-03-01,Salary payment,Credit,6763.56,204215.6,HDFC Bank,Cheque,Global Machinery
+TXN0068,2024-01-30,Loan repayment,Credit,3059.7,207275.3,HDFC Bank,IMPS,AutoParts Ltd.
+TXN0069,2024-02-10,Client payment received,Debit,2502.71,204772.59,HDFC Bank,Cheque,XYZ Traders
+TXN0070,2024-03-03,Client payment received,Debit,10487.71,194284.88,ICICI Bank,Cheque,Metro Logistics
+TXN0071,2024-01-10,Loan repayment,Credit,13788.43,208073.31,HDFC Bank,IMPS,ABC Steels
+TXN0072,2024-01-10,Salary payment,Debit,19299.66,188773.65,Axis Bank,IMPS,Metro Logistics
+TXN0073,2024-02-22,Interest received,Credit,14542.72,203316.37,Axis Bank,IMPS,AutoParts Ltd.
+TXN0074,2024-02-10,Client payment received,Debit,9975.23,193341.14,HDFC Bank,UPI,AutoParts Ltd.
+TXN0075,2024-02-04,Loan repayment,Debit,10944.48,182396.66,Axis Bank,IMPS,AutoParts Ltd.
+TXN0076,2024-03-09,Loan repayment,Debit,18819.44,163577.22,State Bank of India,Cheque,AutoParts Ltd.
+TXN0077,2024-01-22,Client payment received,Credit,3526.13,167103.35,HDFC Bank,UPI,ABC Steels
+TXN0078,2024-03-10,Salary payment,Credit,17052.8,184156.15,ICICI Bank,IMPS,AutoParts Ltd.
+TXN0079,2024-01-02,Interest received,Credit,1037.55,185193.7,Axis Bank,UPI,Fasteners Inc.
+TXN0080,2024-02-19,Utility bill,Credit,2090.12,187283.82,State Bank of India,RTGS,Metro Logistics
+TXN0081,2024-03-08,Loan repayment,Credit,19308.45,206592.27,HDFC Bank,UPI,AutoParts Ltd.
+TXN0082,2024-02-21,Utility bill,Credit,17276.97,223869.24,Axis Bank,RTGS,Fasteners Inc.
+TXN0083,2024-01-19,Utility bill,Debit,8215.47,215653.77,HDFC Bank,RTGS,Fasteners Inc.
+TXN0084,2024-02-27,Salary payment,Debit,4963.25,210690.52,Axis Bank,NEFT,Metro Logistics
+TXN0085,2024-02-26,Interest received,Debit,13003.19,197687.33,ICICI Bank,Cheque,XYZ Traders
+TXN0086,2024-03-30,Utility bill,Debit,2670.19,195017.14,State Bank of India,NEFT,XYZ Traders
+TXN0087,2024-02-29,Utility bill,Debit,4238.11,190779.03,Axis Bank,UPI,Global Machinery
+TXN0088,2024-02-18,Payment for raw materials,Credit,3764.79,194543.82,State Bank of India,IMPS,AutoParts Ltd.
+TXN0089,2024-02-12,Loan repayment,Debit,9951.74,184592.08,Axis Bank,IMPS,Fasteners Inc.
+TXN0090,2024-03-07,Payment for raw materials,Debit,2904.43,181687.65,ICICI Bank,RTGS,Global Machinery
+TXN0091,2024-01-02,Loan repayment,Debit,10983.51,170704.14,Axis Bank,NEFT,XYZ Traders
+TXN0092,2024-03-08,Utility bill,Debit,18527.34,152176.8,ICICI Bank,RTGS,ABC Steels
+TXN0093,2024-01-15,Payment for raw materials,Debit,6565.49,145611.31,HDFC Bank,RTGS,AutoParts Ltd.
+TXN0094,2024-03-07,Payment for raw materials,Debit,1124.67,144486.64,HDFC Bank,IMPS,AutoParts Ltd.
+TXN0095,2024-01-31,Interest received,Credit,4919.91,149406.55,Axis Bank,UPI,Fasteners Inc.
+TXN0096,2024-02-29,Client payment received,Debit,13842.5,135564.05,Axis Bank,UPI,Global Machinery
+TXN0097,2024-01-26,Salary payment,Debit,2366.01,133198.04,State Bank of India,UPI,Fasteners Inc.
+TXN0098,2024-03-31,Interest received,Credit,19001.84,152199.88,Axis Bank,IMPS,XYZ Traders
+TXN0099,2024-02-28,Loan repayment,Debit,4731.67,147468.21,HDFC Bank,IMPS,Global Machinery
+TXN0100,2024-01-01,Utility bill,Debit,7727.45,139740.76,Axis Bank,NEFT,Global Machinery
