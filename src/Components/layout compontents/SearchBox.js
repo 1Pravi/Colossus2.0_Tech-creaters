@@ -116,3 +116,4 @@ const AdvancedSearchBox = () => {
 };
 
 export default AdvancedSearchBox;
+
