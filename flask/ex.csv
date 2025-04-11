@@ -1,0 +1,51 @@
+Expense_ID,Date,Vendor_Name,Expense_Type,Description,Category,Amount,Payment_Mode,Payment_Status,Invoice_Number,Tax_Amount,Total_With_Tax,Department
+E0001,2024-01-13,PowerGrid Supply Co.,Maintenance,Expense for maintenance materials/services,OpEx,26625,Cheque,Partially Paid,EXP-2001,4792.5,31417.5,Logistics
+E0002,2024-07-23,SteelMart Ltd.,Raw Material,Expense for raw material materials/services,CapEx,3233,Credit,Paid,EXP-2002,581.94,3814.94,Procurement
+E0003,2024-04-30,EcoLogistics,Utilities,Expense for utilities materials/services,OpEx,19938,Bank Transfer,Unpaid,EXP-2003,3588.84,23526.84,Procurement
+E0004,2024-09-16,SteelMart Ltd.,Rent,Expense for rent materials/services,OpEx,5060,Bank Transfer,Unpaid,EXP-2004,910.8,5970.8,Logistics
+E0005,2024-03-19,SteelMart Ltd.,Maintenance,Expense for maintenance materials/services,OpEx,9027,Cheque,Unpaid,EXP-2005,1624.86,10651.86,Admin
+E0006,2024-12-19,PowerGrid Supply Co.,Raw Material,Expense for raw material materials/services,OpEx,17528,Bank Transfer,Paid,EXP-2006,3155.04,20683.04,Admin
+E0007,2024-10-03,PowerGrid Supply Co.,Utilities,Expense for utilities materials/services,CapEx,45204,Cheque,Paid,EXP-2007,8136.72,53340.72,Admin
+E0008,2024-02-19,PowerGrid Supply Co.,Labor,Expense for labor materials/services,OpEx,39027,Cheque,Unpaid,EXP-2008,7024.86,46051.86,Production
+E0009,2024-09-01,EcoLogistics,Raw Material,Expense for raw material materials/services,CapEx,34997,Credit,Unpaid,EXP-2009,6299.46,41296.46,Procurement
+E0010,2024-10-22,EcoLogistics,Utilities,Expense for utilities materials/services,CapEx,48442,Credit,Partially Paid,EXP-2010,8719.56,57161.56,Maintenance
+E0011,2024-10-27,SteelMart Ltd.,Raw Material,Expense for raw material materials/services,CapEx,38327,Credit,Partially Paid,EXP-2011,6898.86,45225.86,Admin
+E0012,2024-06-30,EcoLogistics,Labor,Expense for labor materials/services,OpEx,49347,Cheque,Paid,EXP-2012,8882.46,58229.46,Procurement
+E0013,2024-07-31,Machino Tools,Labor,Expense for labor materials/services,OpEx,36607,Cheque,Partially Paid,EXP-2013,6589.26,43196.26,Maintenance
+E0014,2024-05-17,SteelMart Ltd.,Maintenance,Expense for maintenance materials/services,CapEx,1144,Credit,Paid,EXP-2014,205.92,1349.92,Procurement
+E0015,2024-11-30,TechMech Components,Utilities,Expense for utilities materials/services,CapEx,44722,UPI,Unpaid,EXP-2015,8049.96,52771.96,Maintenance
+E0016,2024-07-25,EcoLogistics,Rent,Expense for rent materials/services,OpEx,37005,Cheque,Unpaid,EXP-2016,6660.9,43665.9,Logistics
+E0017,2024-11-13,EcoLogistics,Utilities,Expense for utilities materials/services,CapEx,46110,Bank Transfer,Paid,EXP-2017,8299.8,54409.8,Admin
+E0018,2024-11-06,EcoLogistics,Raw Material,Expense for raw material materials/services,OpEx,21742,UPI,Paid,EXP-2018,3913.56,25655.56,Admin
+E0019,2024-05-12,PowerGrid Supply Co.,Labor,Expense for labor materials/services,OpEx,16229,Bank Transfer,Unpaid,EXP-2019,2921.22,19150.22,Production
+E0020,2024-10-17,Machino Tools,Maintenance,Expense for maintenance materials/services,OpEx,24585,Credit,Partially Paid,EXP-2020,4425.3,29010.3,Production
+E0021,2024-07-06,PowerGrid Supply Co.,Utilities,Expense for utilities materials/services,OpEx,29520,Credit,Unpaid,EXP-2021,5313.6,34833.6,Production
+E0022,2024-05-08,PowerGrid Supply Co.,Raw Material,Expense for raw material materials/services,OpEx,14487,Cheque,Partially Paid,EXP-2022,2607.66,17094.66,Admin
+E0023,2024-06-21,SteelMart Ltd.,Labor,Expense for labor materials/services,CapEx,37047,UPI,Paid,EXP-2023,6668.46,43715.46,Production
+E0024,2024-12-19,EcoLogistics,Utilities,Expense for utilities materials/services,OpEx,23133,Credit,Unpaid,EXP-2024,4163.94,27296.94,Admin
+E0025,2024-07-13,TechMech Components,Raw Material,Expense for raw material materials/services,OpEx,24837,Bank Transfer,Partially Paid,EXP-2025,4470.66,29307.66,Procurement
+E0026,2024-02-27,EcoLogistics,Raw Material,Expense for raw material materials/services,OpEx,47560,Bank Transfer,Unpaid,EXP-2026,8560.8,56120.8,Production
+E0027,2024-12-23,PowerGrid Supply Co.,Utilities,Expense for utilities materials/services,CapEx,3033,UPI,Unpaid,EXP-2027,545.94,3578.94,Logistics
+E0028,2024-05-09,PowerGrid Supply Co.,Labor,Expense for labor materials/services,CapEx,42902,UPI,Paid,EXP-2028,7722.36,50624.36,Admin
+E0029,2024-07-03,TechMech Components,Rent,Expense for rent materials/services,CapEx,16546,UPI,Partially Paid,EXP-2029,2978.28,19524.28,Maintenance
+E0030,2024-12-01,SteelMart Ltd.,Rent,Expense for rent materials/services,CapEx,23018,Bank Transfer,Paid,EXP-2030,4143.24,27161.24,Logistics
+E0031,2024-05-16,Machino Tools,Rent,Expense for rent materials/services,CapEx,27324,Bank Transfer,Unpaid,EXP-2031,4918.32,32242.32,Production
+E0032,2024-07-14,Machino Tools,Raw Material,Expense for raw material materials/services,CapEx,21888,UPI,Unpaid,EXP-2032,3939.84,25827.84,Production
+E0033,2024-06-12,TechMech Components,Maintenance,Expense for maintenance materials/services,OpEx,4129,Credit,Partially Paid,EXP-2033,743.22,4872.22,Admin
+E0034,2024-07-16,Machino Tools,Utilities,Expense for utilities materials/services,CapEx,32115,Cheque,Partially Paid,EXP-2034,5780.7,37895.7,Admin
+E0035,2024-09-14,TechMech Components,Labor,Expense for labor materials/services,CapEx,29505,Credit,Partially Paid,EXP-2035,5310.9,34815.9,Procurement
+E0036,2024-02-26,TechMech Components,Utilities,Expense for utilities materials/services,OpEx,13191,Bank Transfer,Unpaid,EXP-2036,2374.38,15565.38,Admin
+E0037,2024-07-14,Machino Tools,Utilities,Expense for utilities materials/services,OpEx,14181,Credit,Paid,EXP-2037,2552.58,16733.58,Logistics
+E0038,2024-04-18,Machino Tools,Rent,Expense for rent materials/services,CapEx,27304,Cheque,Paid,EXP-2038,4914.72,32218.72,Procurement
+E0039,2024-10-21,Machino Tools,Labor,Expense for labor materials/services,CapEx,35222,Credit,Partially Paid,EXP-2039,6339.96,41561.96,Procurement
+E0040,2024-09-02,EcoLogistics,Utilities,Expense for utilities materials/services,CapEx,41115,Credit,Partially Paid,EXP-2040,7400.7,48515.7,Maintenance
+E0041,2024-01-13,Machino Tools,Raw Material,Expense for raw material materials/services,CapEx,46610,UPI,Paid,EXP-2041,8389.8,54999.8,Production
+E0042,2024-11-08,Machino Tools,Labor,Expense for labor materials/services,OpEx,12231,UPI,Unpaid,EXP-2042,2201.58,14432.58,Admin
+E0043,2024-08-21,TechMech Components,Labor,Expense for labor materials/services,OpEx,2640,Credit,Partially Paid,EXP-2043,475.2,3115.2,Procurement
+E0044,2024-12-10,Machino Tools,Raw Material,Expense for raw material materials/services,OpEx,10604,Cheque,Paid,EXP-2044,1908.72,12512.72,Admin
+E0045,2024-08-23,SteelMart Ltd.,Utilities,Expense for utilities materials/services,CapEx,49170,Bank Transfer,Partially Paid,EXP-2045,8850.6,58020.6,Production
+E0046,2024-02-16,SteelMart Ltd.,Rent,Expense for rent materials/services,OpEx,25510,Bank Transfer,Unpaid,EXP-2046,4591.8,30101.8,Procurement
+E0047,2024-09-03,PowerGrid Supply Co.,Rent,Expense for rent materials/services,CapEx,38557,UPI,Unpaid,EXP-2047,6940.26,45497.26,Logistics
+E0048,2024-04-29,TechMech Components,Labor,Expense for labor materials/services,OpEx,36836,Credit,Partially Paid,EXP-2048,6630.48,43466.48,Maintenance
+E0049,2024-10-20,Machino Tools,Rent,Expense for rent materials/services,OpEx,37821,Cheque,Paid,EXP-2049,6807.78,44628.78,Logistics
+E0050,2024-04-16,TechMech Components,Labor,Expense for labor materials/services,OpEx,35460,UPI,Unpaid,EXP-2050,6382.8,41842.8,Admin
