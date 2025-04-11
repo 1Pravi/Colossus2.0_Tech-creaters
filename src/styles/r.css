@@ -1,0 +1,112 @@
+/* r.css */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f3f4f6;
+  color: #1f2937;
+  margin: 0;
+  padding: 0;
+}
+
+.metrics-summary-container {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+  justify-content: space-between;
+  margin: 2rem 0;
+  padding: 1rem 0;
+  flex-wrap: nowrap;
+  overflow: hidden; /* hide anything overflowing instead of scrolling */
+}
+
+
+
+
+.metric-box {
+  background-color: #ffffff;
+  border-radius: 1rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 1.5rem 1.75rem;
+  width: 100%;
+  max-width: 260px;
+  text-align: center;
+  flex: 1;
+}
+
+
+.metric-box:hover {
+  transform:  scale(1.03);
+}
+
+
+
+.metric-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #555;
+  margin-bottom: 0.5rem;
+}
+
+.metric-value {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #111827;
+}
+
+.metric-status {
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin-top: 0.3rem;
+  color: #10b981; /* default green, can customize */
+}
+
+
+.text-green-600 {
+  color: #16a34a;
+}
+.text-yellow-600 {
+  color: #ca8a04;
+}
+.text-blue-600 {
+  color: #2563eb;
+}
+.text-purple-600 {
+  color: #7c3aed;
+}
+
+/* Chart Cards */
+.chart-card {
+  background-color: #ffffff;
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+/* Transactions Table */
+.transactions-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.transactions-table thead {
+  background-color: #e5e7eb;
+}
+
+.transactions-table th,
+.transactions-table td {
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.transactions-table tbody tr:hover {
+  background-color: #f9fafb;
+}
+
+@media (max-width: 768px) {
+  .metrics-summary,
+  .chart-card {
+    padding: 1rem;
+  }
+}

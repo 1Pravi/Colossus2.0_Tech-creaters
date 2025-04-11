@@ -1,0 +1,90 @@
+/* Overview.css */
+.overview-container {
+  position: relative;
+  top: -47px;
+  margin-left: -20px; /* Same width as sidebar */
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  padding: 20px;
+  background-color: #f4f4f9;
+  overflow-y: auto;
+}
+
+/* Ensure body font size is responsive */
+body {
+  font-size: 16px; /* Base font size */
+}
+
+/* Adjust font size for larger screens */
+@media (min-width: 1024px) {
+  body {
+    font-size: 18px;
+  }
+}
+
+/* Responsive margin for filters */
+.filters {
+  display: flex;
+  flex-wrap: wrap; /* Wrap items on smaller screens */
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.filters input,
+.filters select {
+  flex: 1; /* Allow inputs and selects to fill available space */
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Responsive metrics layout */
+.metrics {
+  display: flex;
+  flex-wrap: wrap; /* Wrap items on smaller screens */
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.metric-card {
+  flex: 1 1 200px; /* Flex grow and shrink with a minimum width */
+  padding: 15px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Responsive charts layout */
+.charts {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.chart {
+  background: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.chart h4 {
+  margin-bottom: 10px;
+}
+
+/* Media Query for Smaller Screens */
+@media (max-width: 768px) {
+  .overview-container {
+    margin-left: 0; /* Remove left margin on smaller screens */
+    padding: 10px;
+  }
+
+  .filters {
+    flex-direction: column; /* Stack filters vertically on smaller screens */
+  }
+
+  .metrics {
+    flex-direction: column; /* Stack metric cards vertically */
+  }
+}

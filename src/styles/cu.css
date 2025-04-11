@@ -1,0 +1,97 @@
+/* Container for the entire page */
+.popular-cuisines-container {
+  padding: 20px;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Heading styles */
+.popular-cuisines-container h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.popular-cuisines-container h2 {
+  color: #555;
+}
+
+.popular-cuisines-container h3 {
+  color: #333;
+  margin-top: 20px;
+}
+
+/* Cuisine card styles */
+.cuisine-card {
+  margin-bottom: 40px;
+  padding: 20px;
+  border: 1px solid #003efc;
+  border-radius: 15px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.cuisine-card:hover {
+  transform: scale(1.05);
+}
+
+.cuisine-card p {
+  font-size: 1rem;
+  color: #555;
+}
+
+.cuisine-card strong {
+  color: #333;
+}
+
+.spinner-container {
+  display: flex;
+  position: relative;
+  top: 200px;
+  left: 500px;
+  height: 100vh; /* Takes full viewport height */
+  background-color: #f8f9fa; /* Light background color */
+}
+
+/* Chart styles */
+.chart-container {
+  max-height: 400px;
+  margin-bottom: 30px;
+}
+
+.famous-foods-container {
+  background-color: #fafafa;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 1rem;
+  color: #555;
+}
+
+.famous-foods-container p {
+  margin: 0;
+}
+
+/* Style for Rating Distribution Line Chart */
+.rating-line-chart {
+  max-height: 300px;
+  margin-top: 20px;
+}
+
+/* Additional tweaks for better visuals */
+h1, h2, h3 {
+  font-family: 'Arial', sans-serif;
+  font-weight: 500;
+}
+
+h3 {
+  margin-top: 20px;
+}
+
+/* Style for loading text */
+.loading-text {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+}
+
