@@ -6,7 +6,7 @@
   left: 0;
   width: 210px;
   height: 100vh;
-  background: rgba(0, 85, 6, 0.15);
+  background: rgba(212, 225, 213, 0.15);
   backdrop-filter: blur(12px);
   box-shadow: 4px 0 12px rgba(0, 0, 0, 0.1);
   padding: 30px 20px;
@@ -33,14 +33,14 @@
 }
 
 .sidebar ul li {
-  margin: 19px 0;
+  margin: 42px 0;
   transition: all 0.3s ease;
 }
 
 .sidebar ul li a {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 19px;
   text-decoration: none;
   font-size: 18px;
   font-weight: 500;
@@ -100,3 +100,4 @@
   background: rgba(0, 0, 0, 0.1);
   border-radius: 10px;
 }
+

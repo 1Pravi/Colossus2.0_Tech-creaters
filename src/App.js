@@ -8,11 +8,11 @@ import CustomerPreferences from './components/Customer Preferences';
 import LocationBasedAnalysis from './components/Location Based Analysis';
 import Overview from './components/Overview';
 import Operationp from './components/DeliveryPerformance';
-import DataFilters from './components/Data Filters';
-import Performance from './components/Performance';
 import AiInsightsPage from './components/AiInsightsPage';
+import ChatBot from  './components/DeliveryPerformance'
 
 import './styles/layout styles/App.css';
+import FinancialForecast from "./components/FinancialForecast";
 
 function AppLayout() {
   const location = useLocation();
@@ -36,10 +36,11 @@ function AppLayout() {
               <Route path="/overview" element={<Overview />} />
               <Route path="/consumption" element={<CustomerPreferences />} />
               <Route path="/vendors" element={<LocationBasedAnalysis />} />
-              <Route path="/DeliveryPerformance" element={<Operationp />} />
-              <Route path="/Data" element={<DataFilters />} />
-              <Route path="/Performance" element={<Performance />} />
+              <Route path="/DeliveryPerformance" element={<ChatBot />} />
+              <Route path="/Data" element={<FinancialForecast />} />
               <Route path="/ai-insights" element={<AiInsightsPage />} />
+              <Route path="/chatBot" element={<ChatBot />} />
+
             </Routes>
           </div>
         </div>

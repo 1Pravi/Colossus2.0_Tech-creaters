@@ -19,13 +19,7 @@ function Sidebar({ isOpen }) {
           <NavLink to="/vendors" className={({ isActive }) => isActive ? 'active' : ''}>Profit and loss</NavLink>
         </li>
         <li>
-          <NavLink to="/DeliveryPerformance" className={({ isActive }) => isActive ? 'active' : ''}>Financial forecast</NavLink>
-        </li>
-        <li>
-          <NavLink to="/Data" className={({ isActive }) => isActive ? 'active' : ''}>Automated Financial Reports</NavLink>
-        </li>
-        <li>
-          <NavLink to="/Performance" className={({ isActive }) => isActive ? 'active' : ''}>Performance</NavLink>
+          <NavLink to="/Data" className={({ isActive }) => isActive ? 'active' : ''}>Financial forecast</NavLink>
         </li>
       </ul>
     </div>
@@ -33,4 +27,5 @@ function Sidebar({ isOpen }) {
 }
 
 export default Sidebar;
+
 
